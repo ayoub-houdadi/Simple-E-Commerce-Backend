@@ -1,0 +1,48 @@
+<style>
+	*{
+		margin: 0px;
+		padding: 0px;
+		box-sizing: border-box;
+	}
+	body{
+		background-color: ghostwhite;
+	}
+	.container{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		height: 100vh;
+		flex-direction: column;
+	}
+	.form{
+		display: flex;
+		flex-direction: column;
+		width: 30%;
+		border: 1px solid;
+		padding: 10px;
+		border-radius: 10px;
+		border-color: blue;
+		background-color: white;
+	}
+	input{
+		margin-bottom: 10px;
+		padding: 10px;
+	}
+	button{
+		height: 30px;
+		background-color: skyblue;
+		color: white;
+		border: none;
+		border-radius: 10px;
+	}
+	.err{
+		color: red;
+		font-size: 20px;
+	}
+	button:hover{
+		background-color: orange;
+	}
+	img{
+		width: 40px;
+	}
+<style/>
