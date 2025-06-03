@@ -1,36 +1,28 @@
-# 🛒 Einfaches E-Commerce-Backend
+# 🛒 Simple E-Commerce Backend
 
-## 📝 Projektbeschreibung
+## 📝 Project Description
 
-Dieses Projekt stellt ein simples, aber effektives Backend-System für eine E-Commerce-Plattform dar. Verkäufer:innen können sich registrieren, anmelden und ihre Artikel verwalten. Die Anwendung basiert auf **PHP**, **MySQL**, **HTML** und **CSS** und legt besonderen Wert auf Benutzerfreundlichkeit und klare Struktur.
+This project presents a simple yet effective backend system for an e-commerce platform. Sellers can register, log in, and manage their products. The application is built using **PHP**, **MySQL**, **HTML**, and **CSS**, with a strong focus on user-friendliness and clear structure.
 
-## 🚀 Funktionen
+## 🚀 Features
 
-- 🔐 **Registrierung & Anmeldung**  
-  Sichere Anmeldung mit Sitzungsverwaltung und verschlüsselten Passwörtern (MD5).
+- 🔐 **Registration & Login**  
+  Secure login with session management and encrypted passwords (MD5).
 
-- 📦 **Artikelverwaltung**  
-  Artikel können mit Bezeichnung, Preis, Lagerbestand und Bild hinzugefügt, angezeigt und gelöscht werden.
+- 📦 **Product Management**  
+  Products can be added, viewed, and deleted with details such as name, price, stock, and image.
 
-- 🖼️ **Bild-Upload**  
-  Unterstützung für den Upload von JPG-, JPEG- und PNG-Dateien mit Anzeige im Dashboard.
+- 🖼️ **Image Upload**  
+  Supports uploading JPG, JPEG, and PNG files with display in the dashboard.
 
-- 👤 **Benutzerbezogenes Dashboard**  
-  Jede:r Verkäufer:in sieht und verwaltet nur die eigenen Produkte.
+- 👤 **User-Specific Dashboard**  
+  Each seller can only view and manage their own products.
 
-## 🛠️ Technologien
+## 🛠️ Technologies
 
 - **Frontend**: HTML, CSS  
 - **Backend**: PHP  
-- **Datenbank**: MySQL  
-- **Sicherheit**: MD5-Hashing zur Passwortverschlüsselung
+- **Database**: MySQL  
+- **Security**: MD5 hashing for password encryption
 
-
-## 👨‍💻 Beitragende Person
-
-- Ayoub EL HOUDADI - https://github.com/ayoub-houdadi – Entwickler
-
-
-## ✨ Zusammenfassung
-
-Ein leichtgewichtiges, übersichtliches Backend für E-Commerce-Projekte – ideal zum Einstieg in Webentwicklung mit PHP und MySQL.
+## 👨‍💻 Contributor
